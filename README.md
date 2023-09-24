@@ -25,6 +25,7 @@ Vá direto ao final conclusão final para entender o resultado final do tratamen
 1.5 Documentação do pacote de dados Matplotlib link: https://matplotlib.org/stable/index.html
 
     2. Importação dos dados;
+    
 
     3. Exploração do Dataset; 
 
@@ -38,17 +39,17 @@ Vá direto ao final conclusão final para entender o resultado final do tratamen
 
 3.5 Analise de valores únicos dentro das colunas;
 
-    3.5.1 Visualizando os valores que são únicos;
+3.5.1 Visualizando os valores que são únicos;
 
 3.6 Analisando o formato de cada coluna;
 
-    3.6.1 Visualizando o formato de uma coluna especifica;
+3.6.1 Visualizando o formato de uma coluna especifica;
 
 3.7 Identificando valores missing;
 
 3.8 Visualizar linhas duplicadas;
 
- 4. Limpeza dos dados;
+      4. Limpeza dos dados;
 
   4.1 Tratamento de valores Missing;
 
@@ -56,17 +57,17 @@ Vá direto ao final conclusão final para entender o resultado final do tratamen
 
   4.2 Tratamento das linhas duplicadas;
 
- 5. Transformação e pré-processamento dos dados;
+      5. Transformação e pré-processamento dos dados;
 
   5.1 Transformando as variáveis categoricas;
 
- 6. Análise exploratória dos dados;
+      6. Análise exploratória dos dados;
 
   6.1 Análises e insights importantes;
 
   6.2 Correlações entre os dados;
 
- 7. Criação dos modelos preditivos ou classificação;
+      7. Criação dos modelos preditivos ou classificação;
 
   7.1 Separação dos dados de treino e teste;
 
@@ -76,4 +77,4 @@ Vá direto ao final conclusão final para entender o resultado final do tratamen
 
   7.4 Utilizando todas as opções de variáveis de entrada;
 
- 8. Conclusões finais;
+      8. Conclusões finais;
